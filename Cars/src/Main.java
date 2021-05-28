@@ -16,5 +16,6 @@ public class Main {
         } catch (MyError myError) {
             System.out.println(myError.getMessage());
         }
+        System.out.println("1111");
     }
 }
