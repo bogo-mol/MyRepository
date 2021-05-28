@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MyList>
+    <list artikul="x-10">
+        <name>qwe</name>
+        <year>1955</year>
+        <ListOfBooks>
+            <list artikul="x-12">
+                <name>asd</name>
+                <year>1957</year>
+            </list>
+            <list artikul="x-13">
+                <name>fgh</name>
+                <year>1958</year>
+            </list>
+        </ListOfBooks>
+    </list>
+    <list artikul="x-11">
+        <name>rty</name>
+        <year>1956</year>
+        <ListOfBooks>
+            <list artikul="x-12">
+                <name>asd</name>
+                <year>1957</year>
+            </list>
+            <list artikul="x-13">
+                <name>fgh</name>
+                <year>1958</year>
+            </list>
+        </ListOfBooks>
+    </list>
+</MyList>
